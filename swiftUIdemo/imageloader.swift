@@ -47,7 +47,7 @@ struct imageloader: View {
                         .resizable()
                         .frame(width: 30,height: 30)
                 }).padding()
-            }.padding()
+            }
         }
     }
 }
